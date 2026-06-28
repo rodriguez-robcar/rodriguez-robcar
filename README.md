@@ -1,8 +1,8 @@
-## Hi there, I'm Roberto 👋
+## Hi there, I'm Roberto
 
 Welcome to my GitHub profile! I'm passionate about technology and continuously learning and growing in the fields of **Software Testing**, **Data Science**, and **Automation**.
 
-## 🚀 About Me
+## About Me
 
 QA Engineer studying to become a Data Scientist
 
